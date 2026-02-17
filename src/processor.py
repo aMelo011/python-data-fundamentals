@@ -10,5 +10,3 @@ if len(temperatures) > 0:
     print(sum(temperatures) / len(temperatures))
     print(temperatures)
 else: print("Error on data file")
-
-
